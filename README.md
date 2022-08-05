@@ -2,6 +2,8 @@
 <img src="./KyrVorga.png" alt="My custom logo, a blue crescent moon with feathery wings" align="center" style="width: 200px" />
 </div>
 
+---
+
 ### <div align="center">My name is Rhylei Tremlett, I am studying a Bachelor of Information Technology.</div>
 
 -   🖥️ I am currently interning at Nimbus Software LTD.
@@ -14,7 +16,7 @@
 
 <br/>
 
-## My Skill Set
+## I have experience in:
 
 <table><tr><td valign="top" width="33%">
 
@@ -58,7 +60,7 @@
 
 <br/>
 
-## Connect with me
+## My accounts
 
 <div align="center">
 <a href="https://github.com/KyrVorga" target="_blank">
@@ -77,13 +79,9 @@
 
 <br/>
 
-## Github Stats
+## Statistics
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KyrVorga&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<br/>
-
-## Recent Blog Posts
 
 <br/>
 
@@ -99,6 +97,4 @@
 
 <br />
 
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
