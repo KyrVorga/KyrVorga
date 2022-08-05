@@ -1,7 +1,6 @@
 <div align="center">
-<img src="./KyrVorga.png" align="center" style="width: 100%" />
-</div>  
-
+<img src="./KyrVorga.png" align="center" style="width: 200px" />
+</div>
 
 ### <div align="center">My name is Rhylei Tremlett, I am studying a Bachelor of Information Technology.</div>
 
@@ -74,8 +73,7 @@
 <a href="https://instagram.com/rhylei.kyrvorga/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -95,8 +93,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=KyrVorga&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <br/>
 
