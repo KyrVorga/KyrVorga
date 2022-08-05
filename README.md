@@ -84,7 +84,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KyrVorga&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyrVorga&layout=compact&exclude_repo=Old-Projects" align="center" /></div>
 
+<br/>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31r2xuxf4mihfxuy7cryk4cls4aq&cover_image=true&theme=default" /></div>
 
 <br/>
