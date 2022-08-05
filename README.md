@@ -1,14 +1,14 @@
 <div align="center">
-<img src="./KyrVorga.png" align="center" style="width: 200px" />
+<img src="./KyrVorga.png" alt="My custom logo, a blue crescent moon with feathery wings" align="center" style="width: 200px" />
 </div>
 
 ### <div align="center">My name is Rhylei Tremlett, I am studying a Bachelor of Information Technology.</div>
 
--   🖥️ I’m currently interning at Nimbus Software LTD.
+-   🖥️ I am currently interning at Nimbus Software LTD.
 
--   🎓 I'm focusing on mastering Node.js, Express.js and MongoDB.
+-   🎓 I am focusing on mastering Node.js, Express.js and MongoDB.
 
--   🏅 I've been programming in JavaScript and Python since 2017.
+-   🏅 I havve been programming in JavaScript and Python since 2017.
 
 -   🪐 I am a minimalist and an efficiency orientated person.
 
