@@ -10,7 +10,7 @@
 
 -   🎓 I am focusing on mastering Node.js, Express.js and MongoDB.
 
--   🏅 I havve been programming in JavaScript and Python since 2017.
+-   🏅 I have been programming in JavaScript and Python since 2017.
 
 -   🪐 I am a minimalist and an efficiency orientated person.
 
