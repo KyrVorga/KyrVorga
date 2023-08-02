@@ -4,15 +4,15 @@
 
 ---
 
-### <div align="center">My name is Rhylei Tremlett, I am studying a Bachelor of Information Technology.</div>
+### <div align="center">My name is Rhylei Tremlett. I am studying for a Bachelor of Information Technology.</div>
 
--   🖥️ I am currently interning at Nimbus Software LTD.
+-   🖥️ I am studying to become a software/web/game developer.
 
--   🎓 I am focusing on mastering Node.js, Express.js and MongoDB.
+-   🎓 I am focusing on a wide variety of tools. Examples include Python, Javascript, Postman, Django, Angular, Git, and more.
 
 -   🏅 I have been programming in JavaScript and Python since 2017.
 
--   🪐 I am a minimalist and an efficiency orientated person.
+-   🪐 I am a minimalist and an efficiency-orientated person.
 
 <br/>
 
@@ -69,13 +69,13 @@
 <a href="https://linkedin.com/in/rhylei-tremlett-18370b232" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/19697967/kyrvorga" target="_blank">
+<!-- <a href="https://stackoverflow.com/users/19697967/kyrvorga" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/rhylei.kyrvorga/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>
+</div> -->
 
 <br/>
 
