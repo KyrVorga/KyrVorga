@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://resources.aureate.dev/Aureate.png"  />
+<img align="right" height="150" src="./Aureate.png"  />
 
 ###
 
