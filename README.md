@@ -1,6 +1,12 @@
 <h2 align="left">Hi 👋! My name is Rhylei and I'm a developer, from New Zealand</h2>
 <br>
 
+<div align="center">
+  <img src="./Aureate.png" alt="A golden crescent moon with feathery wings" align="center" style="width: 200px" />
+</div>
+
+---
+
 ###
 
 <div align="center">
@@ -9,10 +15,6 @@
 </div>
 <br>
 <br>
-
-###
-
-<img align="right" height="150" src="./Aureate.png"  />
 
 ###
 
